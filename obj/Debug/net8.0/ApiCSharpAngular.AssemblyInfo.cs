@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiCSharpAngular")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89c0a6d173a1ebc4c5e56c2f19eb52baaf6959ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiCSharpAngular")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiCSharpAngular")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
